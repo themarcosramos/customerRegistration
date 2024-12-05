@@ -81,6 +81,6 @@ Quando você terminar de usar o servidor laravel, pressione `Ctrl + C` no termin
 
  ### Demostração de uso  
 
-![Demonstração de Uso da aplicação ](/gif/gravacao_de_teste.gif)
+![Demonstração de Uso da aplicação ]([/gif/gravacao_de_teste.gif](https://github.com/themarcosramos/customerRegistration/blob/main/gif/gravacao_de_teste.gif))
 
-![Demonstração de Uso da aplicação ](/gif/gravacao.gif)
+![Demonstração de Uso da aplicação ](https://github.com/themarcosramos/customerRegistration/blob/main/gif/gravacao.gif)
